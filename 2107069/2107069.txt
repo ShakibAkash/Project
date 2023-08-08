@@ -1,0 +1,103 @@
+Menu:
+1. Add Customer
+2. Find Customer
+3. Print Customers
+4. Get Revenue by Pet
+5. Total Revenue
+6. Exit
+Enter your choice:1
+
+Enter customer name: Akash
+Enter customer address: Jhenaidah
+Enter customer order code: 10
+Enter customer order status (true/false): 1
+You can add at most 5 breeds of pet
+Please Add pets.
+Enter pet breed: cat
+Enter the number of pets: 2
+Enter the price per pet: 100
+(1) Add pets
+(2) Done
+Choice:2
+
+Menu:
+1. Add Customer
+2. Find Customer
+3. Print Customers
+4. Get Revenue by Pet
+5. Total Revenue
+6. Exit
+Enter your choice:2
+
+Enter Order Code: 10
+Name: Akash
+Address: Jhenaidah
+Order Code: 10
+Order Status: 1
+Bill: 200
+Press any key to continue . . .
+
+Menu:
+1. Add Customer
+2. Find Customer
+3. Print Customers
+4. Get Revenue by Pet
+5. Total Revenue
+6. Exit
+Enter your choice:3
+
+Customer 1:
+Name: Akash
+Address: Jhenaidah
+Order Code: 10
+Order Status: 1
+Bill: 200
+Press any key to continue . . .
+
+Menu:
+1. Add Customer
+2. Find Customer
+3. Print Customers
+4. Get Revenue by Pet
+5. Total Revenue
+6. Exit
+Enter your choice:4
+
+Enter pet breed: cat
+Revenue for cat is 200
+Press any key to continue . . .
+
+Menu:
+1. Add Customer
+2. Find Customer
+3. Print Customers
+4. Get Revenue by Pet
+5. Total Revenue
+6. Exit
+Enter your choice:5
+
+Total Revenue is 200TK
+Press any key to continue . . .
+
+Menu:
+1. Add Customer
+2. Find Customer
+3. Print Customers
+4. Get Revenue by Pet
+5. Total Revenue
+6. Exit
+Enter your choice:6
+
+Thanks for Using.
+Have a Nice Day!!
+
+Process returned 0 (0x0)   execution time : 59.918 s
+Press any key to continue.
+
+
+
+
+
+
+
+
